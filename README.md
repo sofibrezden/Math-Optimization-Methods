@@ -10,7 +10,7 @@ This repository is a collection of mathematical optimization algorithms and solu
 - **Gradient-Descent**: Implementation of the fastest gradient descent algorithm for optimization. 📈
 - **Simplex**: Implementation of the simplex method with artificial variables for linear programming. 📊
 - **Transportation-Problem**: Implementation of potential method for solving transportation problems. 🚚
-- **Distribution-Of-Investments**: Implementation of algorithms for optimizing the distribution of investments. 💰
+- **Travelsman-Branch-Bound**: Implementation of algorithm for solving the Traveling Salesman Problem (TSP) using the Branch and Bound method. 📉
 
 
 Feel free to explore each directory to discover specific algorithms and implementations. Within each directory, you will find detailed explanations and code examples for solving optimization problems using various techniques.
